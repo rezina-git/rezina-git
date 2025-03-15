@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Improving my Python skills and UI/UX design.**
 
-- 👯 I’m looking to collaborate on **Collaborate on open-source projects and exciting Python applications.**
+- 👯 I’m looking to collaborate on **open-source projects and exciting Python applications.**
 
-- 🤝 I’m looking for help with **help in Mastering Python, backend development, AI, and data science.**
+- 🤝 I’m looking for **help in Mastering Python, backend development, AI, and data science.**
 
 - 📫 How to reach me **budhathoki.rezeena@gmail.com**
 
